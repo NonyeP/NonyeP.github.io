@@ -1,7 +1,7 @@
 # NonyeP.github.io
 # Portfolio Overview
 Welcome to my portfolio! This portfolio serves as a showcase of my skills, projects, and experiences in the world of software development
-I am a recent graduate from a CodingBlackFemales-Entry-to-Tech(West) Java bootcamp, equipped with a strong foundation in Java development and a passion for creating innovative solutions.
+I am a recent graduate from CodingBlackFemales-Entry-to-Tech(West) Java bootcamp, and I am equipped with a strong foundation in Java development and a passion for creating innovative solutions.
 Check them out here: 
  >  https://www.codingblackfemales.com
 
