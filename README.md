@@ -70,18 +70,6 @@ My goal is to contribute to a dynamic team, leveraging my skills and knowledge t
   - Features: SMA-based trading indicators, backtesting, trade signal generation.
   - Tools: Java, Pandas, Numpy, finance libraries.
 
-### Expense Tracker
-- [Expense Tracker](https://github.com/NonyeP/Expense-Tracker)
-  - An expense tracking system to manage personal finances.
-  - Features: Record, categorize, and visualize expenses, budget planning.
-  - Developed with: Java, MySQL, Spring Boot, JavaFX, Log4j.
-
-
-### Budgeting API
-- [Budgeting API](https://github.com/NonyeP/Budgeting-API)for 
-  - An API to handle budgeting and financial planning.
-  - Features: RESTful services for budget creation, modification, and analysis.
-  - Technologies: Java, SpringBoot, RESTful principles.
 
 ### Music PlayerDB
 - [Music Player](https://github.com/NonyeP/Music-Player)
