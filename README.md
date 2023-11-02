@@ -38,6 +38,7 @@ My goal is to contribute to a dynamic team, leveraging my skills and knowledge t
   - A simple digital clock written in Java.
   - Description: This project showcases a digital clock application developed in Java.
   - Includes: Java source code files, README, and documentation.
+   
 ### Currency Converter
 - [Currency Converter](https://github.com/NonyeP/Currency-Converter)
   -  A currency converter application that converts currency using http://www.exchangerate-api.com
@@ -68,14 +69,14 @@ My goal is to contribute to a dynamic team, leveraging my skills and knowledge t
 - [Algorithmic Trading](https://github.com/NonyeP/Algorithmic-Trading)
   - Algorithmic trading software for Foreign Exchange and Stock markets using Simple Moving Averages (SMA).
   - Features: SMA-based trading indicators, backtesting, trade signal generation.
-  - Tools: Java, Pandas, Numpy, finance libraries.
+  - Tools: Java, finance libraries.
 
 
 ### Music Player
 - [Music Player](https://github.com/NonyeP/Music-Player)
   - A music player application allowing users to play and manage their music library.
   - Features: Play, pause, stop, skip tracks, shuffle, and create playlists.
-  - Technologies: Java, audio APIs.
+  - Technologies: Java.
 
 Each project repository includes its specific details, source code, and documentation. Feel free to explore these projects to learn more!
 
