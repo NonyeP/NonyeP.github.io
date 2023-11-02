@@ -80,6 +80,9 @@ My goal is to contribute to a dynamic team, leveraging my skills and knowledge t
 
 Each project repository includes its specific details, source code, and documentation. Feel free to explore these projects to learn more!
 
+### See more projects
+- [More Projects](https://github.com/NonyeP/More-Projects)
+
 
 
 
