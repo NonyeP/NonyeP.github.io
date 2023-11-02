@@ -71,7 +71,7 @@ My goal is to contribute to a dynamic team, leveraging my skills and knowledge t
   - Tools: Java, Pandas, Numpy, finance libraries.
 
 
-### Music PlayerDB
+### Music Player
 - [Music Player](https://github.com/NonyeP/Music-Player)
   - A music player application allowing users to play and manage their music library.
   - Features: Play, pause, stop, skip tracks, shuffle, and create playlists.
