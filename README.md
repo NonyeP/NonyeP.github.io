@@ -49,7 +49,7 @@ My goal is to contribute to a dynamic team, leveraging my skills and knowledge t
 ### User Login System
 - [User Login System](https://github.com/NonyeP/User-Login-System)
   - A user authentication system providing secure login functionality.
-  - Description: This project showcases A user authen
+  - Description: This project showcases A user authentication
   - Features: Registration, login, encryption, and GUI components.
   - Improvements: A session management system is currently being implemented on it. Watch this space!
 
